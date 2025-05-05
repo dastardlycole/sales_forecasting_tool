@@ -26,7 +26,7 @@ The tool offers two operational modes:
 1. **Clone or download the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dastardlycole/sales_forecasting_tool.git
 # or download and extract the ZIP file
 ```
 
