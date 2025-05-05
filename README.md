@@ -14,6 +14,9 @@ The tool offers two operational modes:
 - **Dissertation (Extended Features)**: Advanced analysis with enhanced visualization and metrics
 - **Company (Standard)**: Streamlined forecasting for business use
 
+  ![main_window](https://github.com/user-attachments/assets/3105d95f-5df1-49ee-82ed-d8d6da081cad)
+
+
 ## Installation
 
 ### Prerequisites
