@@ -73,6 +73,21 @@ python doghouse_sales_predictor_toggle_v2.py
    - Configure forecast parameters if needed
    - Click "Generate Forecast"
    - View the results in the visualization panel
+  
+     **Optional- Conversion to EXE file**:
+    1. Make sure pyinstaller is installed:
+ ```bash
+ pip install pyinstaller
+  ```
+2. Run the following command to create a .exe
+    ```bash
+ pyinstaller --onefile --noconsole doghouse_sales_predictor_toggle_v2.py
+  ```
+The resulting .exe will be in the dist/ folder
+
+Click on the exe file to run the program
+   
+     
 
 ## Data Format Requirements
 
