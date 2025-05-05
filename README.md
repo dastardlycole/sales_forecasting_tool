@@ -74,7 +74,7 @@ python doghouse_sales_predictor_toggle_v2.py
    - Click "Generate Forecast"
    - View the results in the visualization panel
   
-     **Optional- Conversion to EXE file**:
+ ## Optional- Conversion to EXE file:
     1. Make sure pyinstaller is installed:
  ```bash
  pip install pyinstaller
